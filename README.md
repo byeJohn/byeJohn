@@ -1,13 +1,13 @@
 
 
 <p align="center">
-    <a href="https://jnguyn.me/" target="_blank">
-      <img alt="https://jnguyn.me/" target="_blank" src="https://img.shields.io/badge/💌%20jnguyn.me-!!!-blue.svg?style=flat-square" target="_blank"/>
+    <a href="https://jnguyn.me/">
+      <img alt="https://jnguyn.me/"  src="https://img.shields.io/badge/💌%20jnguyn.me-!!!-blue.svg?style=flat-square" />
     </a>
     <a href="https://github.com/byeJohn">
       <img alt="GitHub" src="https://img.shields.io/github/followers/byeJohn?label=Followers&logo=GitHub&style=flat-square" />
     </a>
-    <a href="https://twitter.com/byeJohnn" target="_blank">
+    <a href="https://twitter.com/byeJohnn">
       <img alt="Twitter" src="https://img.shields.io/twitter/follow/byeJohnn?label=Twitter&logo=twitter&style=flat-square&color=blue" />
     </a>
     <a href="https://www.linkedin.com/in/j-nguyen-/" target="_blank">
