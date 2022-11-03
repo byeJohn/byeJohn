@@ -1,8 +1,8 @@
 
 
 <p align="center">
-    <a href="https://jnguyn.me/" target="_blank" rel="noopener noreferrer">
-      <img alt="https://jnguyn.me/" src="https://img.shields.io/badge/💌%20jnguyn.me-!!!-blue.svg?style=flat-square"/>
+    <a href="https://jnguyn.me/">
+      <img alt="https://jnguyn.me/" src="https://img.shields.io/badge/💌%20jnguyn.me-!!!-blue.svg?style=flat-square" target="_blank"/>
     </a>
     <a href="https://github.com/byeJohn">
       <img alt="GitHub" src="https://img.shields.io/github/followers/byeJohn?label=Followers&logo=GitHub&style=flat-square" />
