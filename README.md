@@ -18,9 +18,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo" />
 </a>
 
+<!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=byejohn&langs_count=8">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byejohn" />
 </a>
+-->
 
 <!--
 [![jnguyn.me](https://img.shields.io/badge/💌%20jnguyn.me-!!!-blue.svg?style=flat-square)](https://jnguyn.me/)
