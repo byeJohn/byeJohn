@@ -13,11 +13,11 @@
     </a>
 </p>
 
-
+<p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo">
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo" />
 </a>
-
+</p>
 <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=byejohn&langs_count=8">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byejohn" />
