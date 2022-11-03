@@ -15,7 +15,7 @@
 
 
 <a href="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo" />
+  <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo" />
 </a>
 
 <!--
