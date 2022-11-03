@@ -1,5 +1,5 @@
 
-<div>
+
 <p align="center">
     <a href="https://jnguyn.me/" target="_blank">
       <img alt="https://jnguyn.me/" src="https://img.shields.io/badge/💌%20jnguyn.me-!!!-blue.svg?style=flat-square"/>
@@ -14,7 +14,8 @@
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0+-blue.svg?style=flat-square&logo=linkedin" />
     </a>
 </p>
-</div>
+
+
 <p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo">
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo" />
