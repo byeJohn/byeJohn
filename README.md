@@ -15,7 +15,8 @@
     </a>
 </p>
 
-
+<h3 align="center"><b>Languages</b></h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeJohn&layout=compact&theme=vision-friendly-light"> </p>
 <p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo">
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo" />
