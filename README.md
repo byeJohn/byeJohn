@@ -21,7 +21,7 @@
 </a>
 </p>
 <h3 align="center"><b></b></h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeJohn&layout=compact&theme=vision-friendly-light"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeJohn&layout=compact&theme=tokyonight"> </p>
 <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=byejohn&langs_count=8">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byejohn" />
