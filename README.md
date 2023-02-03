@@ -14,7 +14,7 @@
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0+-blue.svg?style=flat-square&logo=linkedin" />
     </a>
 </p>
-
+<!--
 <p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo">
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com?user=byeJohn&theme=tokyonight_duo" />
